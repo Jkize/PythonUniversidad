@@ -1,0 +1,12 @@
+La palabra más revelante del documento N° 1 es amazon con ponderación 0.24368608781720555 
+La palabra más revelante del documento N° 2 es microsoft con ponderación 0.08301394200366344 
+La palabra más revelante del documento N° 3 es google con ponderación 0.06744882787797654 
+La palabra más revelante del documento N° 4 es algorithms con ponderación 0.04404821412439284 
+La palabra más revelante del documento N° 5 es intelligence con ponderación 0.10807656255328382 
+La palabra más revelante del documento N° 6 es document con ponderación 0.06020599913279623 
+La palabra más revelante del documento N° 7 es searching con ponderación 0.08750118211196957 
+La palabra más revelante del documento N° 8 es search con ponderación 0.210571950448317 
+La palabra más revelante del documento N° 9 es www con ponderación 0.08301394200366344 
+La palabra más revelante del documento N° 10 es browser con ponderación 0.04863445314897772 
+La palabra más revelante del documento N° 11 es web con ponderación 0.05902548934587865 
+La palabra más revelante del documento N° 12 es devices con ponderación 0.03407940776992499 

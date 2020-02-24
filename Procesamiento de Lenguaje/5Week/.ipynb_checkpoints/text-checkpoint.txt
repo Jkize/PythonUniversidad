@@ -1,0 +1,10 @@
+Yo tengo que estudiar para pasar el parcial.
+Si no practico Python no voy a avanzar en el curso.
+En clase estudiamos que era un modelo en bolsa de palabras.
+El modelo de bolsa de palabras requiere procesar el texto.
+Remover stopwords y normalizar son algunas de  las tareas de procesar el texto.
+Para ponderar la importancias de las palabras en el modelo de bolsa de palabras se usa tfidf.
+Para calcular similitudes entre documentos debemos vectorizar el modelo de bolsa de palabras.
+Usando la distancia coseno podemos calcular las similitudes entre documentos.
+En python implementamos diferentes medidas de similitud y estudiamos diferentes métricas de evaluación.
+Entre las métricas más empleadas de evaluación se encuentra la medida F1.
