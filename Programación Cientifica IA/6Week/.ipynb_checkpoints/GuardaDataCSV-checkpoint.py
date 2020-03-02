@@ -1,3 +1,4 @@
+#Jhoan Sebastian Saavedra Romero CC: 1010238118
 import numpy as np
 data=np.arange(10)
 SIZE=20
